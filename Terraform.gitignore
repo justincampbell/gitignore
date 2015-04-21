@@ -1,0 +1,4 @@
+*.backup
+*.tfplan
+*.tfvars
+crash.log
